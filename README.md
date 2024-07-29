@@ -30,6 +30,9 @@ sudo apt install docker-compose -y
 nano docker-compose.yml
 sudo docker-compose up --build
 ```
+# Deploy 
+
+Deploy on 'colab'
 
 The hard Way:
 
