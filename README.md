@@ -30,7 +30,9 @@ sudo apt install docker-compose -y
 nano docker-compose.yml
 sudo docker-compose up --build
 ```
-# Deploy 
+### Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/.ipyn)
+
 
 Deploy on 'colab'
 
