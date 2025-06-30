@@ -1,3 +1,4 @@
+import tglogging
 import os
 from pyrogram import Client as AFK, idle
 from pyrogram.enums import ChatMemberStatus, ChatMembersFilter
